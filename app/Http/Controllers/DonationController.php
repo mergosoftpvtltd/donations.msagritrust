@@ -211,7 +211,7 @@ class DonationController extends Controller
     $access_code =  env('ACCESS_CODE');//'AVTG67KE15BN74GTNB';
     $working_key = env('WORKING_KEY');//'749172346F28634BC65A8070BFB84B25';
     $order_id = '12434345';
-    $amount = '100';
+    $amount = $donation->amount;// Session::get('donation_amount');
     $currency = 'INR';
     $redirect_url = env('REDIRECT_URL');//'http://donations.msagritrust.org/ccavResponseHandler.php';
 
@@ -302,7 +302,7 @@ class DonationController extends Controller
     $access_code = env('ACCESS_CODE');
     $working_key = env('WORKING_KEY');
     $order_id = '12434345';
-    $amount = '100';
+    $amount =  $donation->amount;
     $currency = 'INR';
     $redirect_url =  env('REDIRECT_URL');
 
