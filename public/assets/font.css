@@ -1,0 +1,61 @@
+/*@font-face {
+  font-family: 'FedraSansStd-light', sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  src: local('Fedra-Sans-Std Light'), local('Fedra-Sans-Std-Light'), url(skin/../font/Fedra-Sans-Std-Light.ttf) format('ttf');
+}
+@font-face {
+  font-family: 'FedraSansStd-regular', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  src: local('Fedra-Sans-Std Normal'), local('Fedra-Sans-Std-Normal'), url(skin/../font/Fedra-Sans-Std-Normal.ttf) format('ttf');
+}
+@font-face {
+  font-family: 'FedraSansStd-medium', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  src: local('Fedra-Sans-Std Medium'), local('Fedra-Sans-Std-Medium'), url(skin/../font/Fedra-Sans-Std-Medium.ttf) format('ttf');
+}
+@font-face {
+  font-family: 'FedraSansStd-bold', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  src: local('Fedra-Sans-Std Bold'), local('Fedra-Sans-Std-Bold'), url(skin/../font/Fedra-Sans-Std-Bold.ttf) format('ttf');
+}*/
+@font-face
+{
+  font-family: 'FedraSansStd-book';
+  src: url('../font/WF-028154-010300-000007.eot');
+  src: url('../font/WF-028154-010300-000007.eot?#iefix') format('embedded-opentype'), url('../font/WF-028154-010300-000007.woff') format('woff'), url('../font/WF-028154-010300-000007.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+}
+
+@font-face
+{
+  font-family: 'FedraSansStd-medium';
+  src: url('../font/WF-028154-010300-000021.eot');
+  src: url('../font/WF-028154-010300-000021.eot?#iefix') format('embedded-opentype'), url('../font/WF-028154-010300-000021.woff') format('woff'), url('../font/WF-028154-010300-000021.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+}
+
+@font-face
+{
+  font-family: "WF-028154-010300-000003";
+  src: url('../font/WF-028154-010300-000003.eot');
+  src: url('../font/WF-028154-010300-000003.eot?#iefix') format('embedded-opentype'), url('../font/WF-028154-010300-000003.woff') format('woff'), url('../font/WF-028154-010300-000003.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face
+{
+  font-family: "WF-028154-010300-000050";
+  src: url('../font/WF-028154-010300-000050.eot');
+  src: url('../font/WF-028154-010300-000050.eot?#iefix') format('embedded-opentype'), url('../font/WF-028154-010300-000050.woff') format('woff'), url('../font/WF-028154-010300-000050.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}

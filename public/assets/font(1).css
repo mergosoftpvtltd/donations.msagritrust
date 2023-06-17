@@ -1,0 +1,48 @@
+@font-face
+{
+  font-family: 'FedraSansStd-book';
+  src: url('../font/WF-028154-010300-000007.eot');
+  src: url('../font/WF-028154-010300-000007.eot?#iefix') format('embedded-opentype'), url('../font/WF-028154-010300-000007.woff') format('woff'), url('../font/WF-028154-010300-000007.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face
+{
+  font-family: 'FedraSansStd-medium';
+  src: url('../font/WF-028154-010300-000021.eot');
+  src: url('../font/WF-028154-010300-000021.eot?#iefix') format('embedded-opentype'), url('../font/WF-028154-010300-000021.woff') format('woff'), url('../font/WF-028154-010300-000021.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face
+{
+  font-family: "WF-028154-010300-000003";
+  src: url('../font/WF-028154-010300-000003.eot');
+  src: url('../font/WF-028154-010300-000003.eot?#iefix') format('embedded-opentype'), url('../font/WF-028154-010300-000003.woff') format('woff'), url('../font/WF-028154-010300-000003.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face
+{
+  font-family: "WF-028154-010300-000050";
+  src: url('../font/WF-028154-010300-000050.eot');
+  src: url('../font/WF-028154-010300-000050.eot?#iefix') format('embedded-opentype'), url('../font/WF-028154-010300-000050.woff') format('woff'), url('../font/WF-028154-010300-000050.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face
+{
+  font-family: "WF-028154-009464-000050";
+  src: url('../font/WF-028154-009464-000050.eot');
+  src: url('../font/WF-028154-009464-000050.eot?#iefix') format('embedded-opentype'), url('../font/WF-028154-009464-000050.woff') format('woff'), url('../font/WF-028154-009464-000050.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
